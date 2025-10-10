@@ -1,0 +1,27 @@
+# Build Artifacts
+Binaries/
+Build/
+Saved/
+Intermediate/
+
+# Derived Data Cache
+DerivedDataCache/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.sln.DotSettings.user
+*.code-workspace
+
+# Other common exclusions
+*.log
+*.pdb
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Temp Files
+Config/DefaultEditorPerProjectUserSettings.ini
